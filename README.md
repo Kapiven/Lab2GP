@@ -6,7 +6,10 @@ Este proyecto es una implementación del juego de la vida de Conway utilizando *
 
 ## Resultados
 
+Hay un gif en el repositorio :D
 ![Game of Life](juego.gif)
+<img width="392" height="848" alt="image" src="https://github.com/user-attachments/assets/f6a9ce99-2f38-4f3a-ab78-849ad8e6633d" />
+
 
 ## ¿Qué es el Juego de la Vida?
 
@@ -52,4 +55,8 @@ Cada celda del mundo puede estar:
 
 2. compila y ejecuta:
     cargo run
+
+## Instalación y ejecución
+
+- Karen Pineda 
 
