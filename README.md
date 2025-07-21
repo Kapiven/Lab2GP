@@ -56,7 +56,7 @@ Cada celda del mundo puede estar:
 2. compila y ejecuta:
     cargo run
 
-## Instalación y ejecución
+## Autora
 
 - Karen Pineda 
 
